@@ -1,4 +1,4 @@
-# Modern Full Stack Admin Dashboard using MERN
+# User Management Dashboard using MERN
 
 ![Modern Full Stack Admin Dashboard using MERN]
 
